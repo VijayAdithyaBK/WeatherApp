@@ -9,7 +9,7 @@ export const environment = {
   XRapidAPIHostHeaderName: 'X-RapidAPI-Host',
   XRapidAPIHostHeaderValue: 'community-open-weather-map.p.rapidapi.com',
   XRapidAPIKeyHeaderName: 'X-RapidAPI-Key',
-  XRapidAPIKeyHeaderValue: '3379e4ae5dmshd5cb51c9ab9abadp136134jsn5c1001149488',
+  XRapidAPIKeyHeaderValue: '',
 };
 
 /*
@@ -20,3 +20,7 @@ export const environment = {
  * on performance if an error is thrown.
  */
 // import 'zone.js/plugins/zone-error';  // Included with Angular CLI.
+
+
+// XRapidAPIKeyHeaderValue@3379e4ae5dmshd5cb51c9ab9abadp136134jsn5c1001149488
+// Value is after @
